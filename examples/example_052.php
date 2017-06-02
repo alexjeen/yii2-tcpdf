@@ -1,0 +1,1 @@
+<strong>TCPDF ERROR: </strong>[Image] Unable to get the size of the image: /var/www/html/webservice/vendor/drivesoftz/yii2-tcpdf/examples/config/../images/tcpdf_logo.jpg
