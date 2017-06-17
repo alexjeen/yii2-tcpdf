@@ -1,79 +1,53 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="510" height="40" version="1.1" xmlns="http://www.w3.org/2000/svg">
-	<desc>http://www.tcpdf.org</desc>
-	<g id="bars" fill="black" stroke="none">
-		<rect x="0" y="0" width="4" height="40" />
-		<rect x="6" y="0" width="2" height="40" />
-		<rect x="12" y="0" width="2" height="40" />
-		<rect x="22" y="0" width="2" height="40" />
-		<rect x="28" y="0" width="4" height="40" />
-		<rect x="40" y="0" width="2" height="40" />
-		<rect x="44" y="0" width="2" height="40" />
-		<rect x="50" y="0" width="8" height="40" />
-		<rect x="60" y="0" width="2" height="40" />
-		<rect x="66" y="0" width="2" height="40" />
-		<rect x="72" y="0" width="8" height="40" />
-		<rect x="82" y="0" width="2" height="40" />
-		<rect x="88" y="0" width="2" height="40" />
-		<rect x="92" y="0" width="2" height="40" />
-		<rect x="98" y="0" width="8" height="40" />
-		<rect x="110" y="0" width="6" height="40" />
-		<rect x="120" y="0" width="2" height="40" />
-		<rect x="126" y="0" width="4" height="40" />
-		<rect x="132" y="0" width="2" height="40" />
-		<rect x="136" y="0" width="6" height="40" />
-		<rect x="146" y="0" width="4" height="40" />
-		<rect x="154" y="0" width="2" height="40" />
-		<rect x="158" y="0" width="6" height="40" />
-		<rect x="168" y="0" width="4" height="40" />
-		<rect x="176" y="0" width="8" height="40" />
-		<rect x="188" y="0" width="2" height="40" />
-		<rect x="192" y="0" width="2" height="40" />
-		<rect x="198" y="0" width="8" height="40" />
-		<rect x="210" y="0" width="2" height="40" />
-		<rect x="214" y="0" width="2" height="40" />
-		<rect x="220" y="0" width="8" height="40" />
-		<rect x="232" y="0" width="2" height="40" />
-		<rect x="236" y="0" width="2" height="40" />
-		<rect x="242" y="0" width="2" height="40" />
-		<rect x="248" y="0" width="4" height="40" />
-		<rect x="256" y="0" width="6" height="40" />
-		<rect x="264" y="0" width="2" height="40" />
-		<rect x="270" y="0" width="8" height="40" />
-		<rect x="280" y="0" width="2" height="40" />
-		<rect x="286" y="0" width="2" height="40" />
-		<rect x="296" y="0" width="2" height="40" />
-		<rect x="300" y="0" width="4" height="40" />
-		<rect x="308" y="0" width="2" height="40" />
-		<rect x="312" y="0" width="2" height="40" />
-		<rect x="318" y="0" width="8" height="40" />
-		<rect x="330" y="0" width="2" height="40" />
-		<rect x="340" y="0" width="2" height="40" />
-		<rect x="346" y="0" width="4" height="40" />
-		<rect x="352" y="0" width="2" height="40" />
-		<rect x="356" y="0" width="4" height="40" />
-		<rect x="368" y="0" width="2" height="40" />
-		<rect x="374" y="0" width="2" height="40" />
-		<rect x="380" y="0" width="4" height="40" />
-		<rect x="388" y="0" width="6" height="40" />
-		<rect x="396" y="0" width="2" height="40" />
-		<rect x="404" y="0" width="8" height="40" />
-		<rect x="414" y="0" width="2" height="40" />
-		<rect x="418" y="0" width="2" height="40" />
-		<rect x="424" y="0" width="2" height="40" />
-		<rect x="430" y="0" width="8" height="40" />
-		<rect x="440" y="0" width="2" height="40" />
-		<rect x="446" y="0" width="4" height="40" />
-		<rect x="452" y="0" width="2" height="40" />
-		<rect x="462" y="0" width="6" height="40" />
-		<rect x="472" y="0" width="4" height="40" />
-		<rect x="478" y="0" width="2" height="40" />
-		<rect x="484" y="0" width="4" height="40" />
-		<rect x="494" y="0" width="6" height="40" />
-		<rect x="502" y="0" width="2" height="40" />
-		<rect x="506" y="0" width="4" height="40" />
-		<rect x="510" y="0" width="0" height="40" />
-		<rect x="510" y="0" width="0" height="40" />
-	</g>
-</svg>
+<?php
+//============================================================+
+// File name   : example_1d_svgi.php
+// Version     : 1.0.000
+// Begin       : 2011-07-21
+// Last Update : 2013-03-19
+// Author      : Nicola Asuni - Tecnick.com LTD - www.tecnick.com - info@tecnick.com
+// License     : GNU-LGPL v3 (http://www.gnu.org/copyleft/lesser.html)
+// -------------------------------------------------------------------
+// Copyright (C) 2009-2013 Nicola Asuni - Tecnick.com LTD
+//
+// This file is part of TCPDF software library.
+//
+// TCPDF is free software: you can redistribute it and/or modify it
+// under the terms of the GNU Lesser General Public License as
+// published by the Free Software Foundation, either version 3 of the
+// License, or (at your option) any later version.
+//
+// TCPDF is distributed in the hope that it will be useful, but
+// WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+// See the GNU Lesser General Public License for more details.
+//
+// You should have received a copy of the GNU Lesser General Public License
+// along with TCPDF.  If not, see <http://www.gnu.org/licenses/>.
+//
+// See LICENSE.TXT file for more information.
+// -------------------------------------------------------------------
+//
+// Description : Example for tcpdf_barcodes_2d.php class
+//
+//============================================================+
+
+/**
+ * @file
+ * Example for tcpdf_barcodes_2d.php class
+ * @package com.tecnick.tcpdf
+ * @author Nicola Asuni
+ * @version 1.0.000
+ */
+
+// include 1D barcode class (search for installation path)
+require_once(dirname(__FILE__).'/tcpdf_barcodes_1d_include.php');
+
+// set the barcode content and type
+$barcodeobj = new TCPDFBarcode('http://www.tcpdf.org', 'C128');
+
+// output the barcode as SVG inline code
+echo $barcodeobj->getBarcodeSVGcode(2, 40, 'black');
+
+//============================================================+
+// END OF FILE
+//============================================================+

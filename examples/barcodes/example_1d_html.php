@@ -1,74 +1,53 @@
-<div style="font-size:0;position:relative;width:510px;height:30px;">
-<div style="background-color:black;width:4px;height:30px;position:absolute;left:0px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:6px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:12px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:22px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:4px;height:30px;position:absolute;left:28px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:40px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:44px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:8px;height:30px;position:absolute;left:50px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:60px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:66px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:8px;height:30px;position:absolute;left:72px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:82px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:88px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:92px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:8px;height:30px;position:absolute;left:98px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:6px;height:30px;position:absolute;left:110px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:120px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:4px;height:30px;position:absolute;left:126px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:132px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:6px;height:30px;position:absolute;left:136px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:4px;height:30px;position:absolute;left:146px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:154px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:6px;height:30px;position:absolute;left:158px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:4px;height:30px;position:absolute;left:168px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:8px;height:30px;position:absolute;left:176px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:188px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:192px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:8px;height:30px;position:absolute;left:198px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:210px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:214px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:8px;height:30px;position:absolute;left:220px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:232px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:236px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:242px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:4px;height:30px;position:absolute;left:248px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:6px;height:30px;position:absolute;left:256px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:264px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:8px;height:30px;position:absolute;left:270px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:280px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:286px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:296px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:4px;height:30px;position:absolute;left:300px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:308px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:312px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:8px;height:30px;position:absolute;left:318px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:330px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:340px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:4px;height:30px;position:absolute;left:346px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:352px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:4px;height:30px;position:absolute;left:356px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:368px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:374px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:4px;height:30px;position:absolute;left:380px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:6px;height:30px;position:absolute;left:388px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:396px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:8px;height:30px;position:absolute;left:404px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:414px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:418px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:424px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:8px;height:30px;position:absolute;left:430px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:440px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:4px;height:30px;position:absolute;left:446px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:452px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:6px;height:30px;position:absolute;left:462px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:4px;height:30px;position:absolute;left:472px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:478px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:4px;height:30px;position:absolute;left:484px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:6px;height:30px;position:absolute;left:494px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:2px;height:30px;position:absolute;left:502px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:4px;height:30px;position:absolute;left:506px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:0px;height:30px;position:absolute;left:510px;top:0px;">&nbsp;</div>
-<div style="background-color:black;width:0px;height:30px;position:absolute;left:510px;top:0px;">&nbsp;</div>
-</div>
+<?php
+//============================================================+
+// File name   : example_1d_html.php
+// Version     : 1.0.000
+// Begin       : 2011-07-21
+// Last Update : 2013-03-19
+// Author      : Nicola Asuni - Tecnick.com LTD - www.tecnick.com - info@tecnick.com
+// License     : GNU-LGPL v3 (http://www.gnu.org/copyleft/lesser.html)
+// -------------------------------------------------------------------
+// Copyright (C) 2009-2013 Nicola Asuni - Tecnick.com LTD
+//
+// This file is part of TCPDF software library.
+//
+// TCPDF is free software: you can redistribute it and/or modify it
+// under the terms of the GNU Lesser General Public License as
+// published by the Free Software Foundation, either version 3 of the
+// License, or (at your option) any later version.
+//
+// TCPDF is distributed in the hope that it will be useful, but
+// WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+// See the GNU Lesser General Public License for more details.
+//
+// You should have received a copy of the GNU Lesser General Public License
+// along with TCPDF.  If not, see <http://www.gnu.org/licenses/>.
+//
+// See LICENSE.TXT file for more information.
+// -------------------------------------------------------------------
+//
+// Description : Example for tcpdf_barcodes_2d.php class
+//
+//============================================================+
+
+/**
+ * @file
+ * Example for tcpdf_barcodes_2d.php class
+ * @package com.tecnick.tcpdf
+ * @author Nicola Asuni
+ * @version 1.0.000
+ */
+
+// include 1D barcode class (search for installation path)
+require_once(dirname(__FILE__).'/tcpdf_barcodes_1d_include.php');
+
+// set the barcode content and type
+$barcodeobj = new TCPDFBarcode('http://www.tcpdf.org', 'C128');
+
+// output the barcode as HTML object
+echo $barcodeobj->getBarcodeHTML(2, 30, 'black');
+
+//============================================================+
+// END OF FILE
+//============================================================+

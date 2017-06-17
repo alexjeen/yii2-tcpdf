@@ -1,440 +1,53 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="174" height="174" version="1.1" xmlns="http://www.w3.org/2000/svg">
-	<desc>http://www.tcpdf.org</desc>
-	<g id="elements" fill="black" stroke="none">
-		<rect x="0" y="0" width="6" height="6" />
-		<rect x="6" y="0" width="6" height="6" />
-		<rect x="12" y="0" width="6" height="6" />
-		<rect x="18" y="0" width="6" height="6" />
-		<rect x="24" y="0" width="6" height="6" />
-		<rect x="30" y="0" width="6" height="6" />
-		<rect x="36" y="0" width="6" height="6" />
-		<rect x="48" y="0" width="6" height="6" />
-		<rect x="54" y="0" width="6" height="6" />
-		<rect x="60" y="0" width="6" height="6" />
-		<rect x="84" y="0" width="6" height="6" />
-		<rect x="90" y="0" width="6" height="6" />
-		<rect x="102" y="0" width="6" height="6" />
-		<rect x="108" y="0" width="6" height="6" />
-		<rect x="120" y="0" width="6" height="6" />
-		<rect x="132" y="0" width="6" height="6" />
-		<rect x="138" y="0" width="6" height="6" />
-		<rect x="144" y="0" width="6" height="6" />
-		<rect x="150" y="0" width="6" height="6" />
-		<rect x="156" y="0" width="6" height="6" />
-		<rect x="162" y="0" width="6" height="6" />
-		<rect x="168" y="0" width="6" height="6" />
-		<rect x="0" y="6" width="6" height="6" />
-		<rect x="36" y="6" width="6" height="6" />
-		<rect x="48" y="6" width="6" height="6" />
-		<rect x="60" y="6" width="6" height="6" />
-		<rect x="66" y="6" width="6" height="6" />
-		<rect x="78" y="6" width="6" height="6" />
-		<rect x="84" y="6" width="6" height="6" />
-		<rect x="102" y="6" width="6" height="6" />
-		<rect x="114" y="6" width="6" height="6" />
-		<rect x="132" y="6" width="6" height="6" />
-		<rect x="168" y="6" width="6" height="6" />
-		<rect x="0" y="12" width="6" height="6" />
-		<rect x="12" y="12" width="6" height="6" />
-		<rect x="18" y="12" width="6" height="6" />
-		<rect x="24" y="12" width="6" height="6" />
-		<rect x="36" y="12" width="6" height="6" />
-		<rect x="48" y="12" width="6" height="6" />
-		<rect x="54" y="12" width="6" height="6" />
-		<rect x="60" y="12" width="6" height="6" />
-		<rect x="72" y="12" width="6" height="6" />
-		<rect x="84" y="12" width="6" height="6" />
-		<rect x="108" y="12" width="6" height="6" />
-		<rect x="114" y="12" width="6" height="6" />
-		<rect x="120" y="12" width="6" height="6" />
-		<rect x="132" y="12" width="6" height="6" />
-		<rect x="144" y="12" width="6" height="6" />
-		<rect x="150" y="12" width="6" height="6" />
-		<rect x="156" y="12" width="6" height="6" />
-		<rect x="168" y="12" width="6" height="6" />
-		<rect x="0" y="18" width="6" height="6" />
-		<rect x="12" y="18" width="6" height="6" />
-		<rect x="18" y="18" width="6" height="6" />
-		<rect x="24" y="18" width="6" height="6" />
-		<rect x="36" y="18" width="6" height="6" />
-		<rect x="54" y="18" width="6" height="6" />
-		<rect x="60" y="18" width="6" height="6" />
-		<rect x="66" y="18" width="6" height="6" />
-		<rect x="78" y="18" width="6" height="6" />
-		<rect x="84" y="18" width="6" height="6" />
-		<rect x="90" y="18" width="6" height="6" />
-		<rect x="96" y="18" width="6" height="6" />
-		<rect x="102" y="18" width="6" height="6" />
-		<rect x="114" y="18" width="6" height="6" />
-		<rect x="132" y="18" width="6" height="6" />
-		<rect x="144" y="18" width="6" height="6" />
-		<rect x="150" y="18" width="6" height="6" />
-		<rect x="156" y="18" width="6" height="6" />
-		<rect x="168" y="18" width="6" height="6" />
-		<rect x="0" y="24" width="6" height="6" />
-		<rect x="12" y="24" width="6" height="6" />
-		<rect x="18" y="24" width="6" height="6" />
-		<rect x="24" y="24" width="6" height="6" />
-		<rect x="36" y="24" width="6" height="6" />
-		<rect x="54" y="24" width="6" height="6" />
-		<rect x="66" y="24" width="6" height="6" />
-		<rect x="72" y="24" width="6" height="6" />
-		<rect x="78" y="24" width="6" height="6" />
-		<rect x="84" y="24" width="6" height="6" />
-		<rect x="90" y="24" width="6" height="6" />
-		<rect x="114" y="24" width="6" height="6" />
-		<rect x="132" y="24" width="6" height="6" />
-		<rect x="144" y="24" width="6" height="6" />
-		<rect x="150" y="24" width="6" height="6" />
-		<rect x="156" y="24" width="6" height="6" />
-		<rect x="168" y="24" width="6" height="6" />
-		<rect x="0" y="30" width="6" height="6" />
-		<rect x="36" y="30" width="6" height="6" />
-		<rect x="48" y="30" width="6" height="6" />
-		<rect x="54" y="30" width="6" height="6" />
-		<rect x="60" y="30" width="6" height="6" />
-		<rect x="66" y="30" width="6" height="6" />
-		<rect x="72" y="30" width="6" height="6" />
-		<rect x="78" y="30" width="6" height="6" />
-		<rect x="84" y="30" width="6" height="6" />
-		<rect x="96" y="30" width="6" height="6" />
-		<rect x="108" y="30" width="6" height="6" />
-		<rect x="120" y="30" width="6" height="6" />
-		<rect x="132" y="30" width="6" height="6" />
-		<rect x="168" y="30" width="6" height="6" />
-		<rect x="0" y="36" width="6" height="6" />
-		<rect x="6" y="36" width="6" height="6" />
-		<rect x="12" y="36" width="6" height="6" />
-		<rect x="18" y="36" width="6" height="6" />
-		<rect x="24" y="36" width="6" height="6" />
-		<rect x="30" y="36" width="6" height="6" />
-		<rect x="36" y="36" width="6" height="6" />
-		<rect x="48" y="36" width="6" height="6" />
-		<rect x="60" y="36" width="6" height="6" />
-		<rect x="72" y="36" width="6" height="6" />
-		<rect x="84" y="36" width="6" height="6" />
-		<rect x="96" y="36" width="6" height="6" />
-		<rect x="108" y="36" width="6" height="6" />
-		<rect x="120" y="36" width="6" height="6" />
-		<rect x="132" y="36" width="6" height="6" />
-		<rect x="138" y="36" width="6" height="6" />
-		<rect x="144" y="36" width="6" height="6" />
-		<rect x="150" y="36" width="6" height="6" />
-		<rect x="156" y="36" width="6" height="6" />
-		<rect x="162" y="36" width="6" height="6" />
-		<rect x="168" y="36" width="6" height="6" />
-		<rect x="48" y="42" width="6" height="6" />
-		<rect x="54" y="42" width="6" height="6" />
-		<rect x="66" y="42" width="6" height="6" />
-		<rect x="72" y="42" width="6" height="6" />
-		<rect x="84" y="42" width="6" height="6" />
-		<rect x="114" y="42" width="6" height="6" />
-		<rect x="120" y="42" width="6" height="6" />
-		<rect x="12" y="48" width="6" height="6" />
-		<rect x="18" y="48" width="6" height="6" />
-		<rect x="24" y="48" width="6" height="6" />
-		<rect x="36" y="48" width="6" height="6" />
-		<rect x="48" y="48" width="6" height="6" />
-		<rect x="54" y="48" width="6" height="6" />
-		<rect x="60" y="48" width="6" height="6" />
-		<rect x="66" y="48" width="6" height="6" />
-		<rect x="78" y="48" width="6" height="6" />
-		<rect x="108" y="48" width="6" height="6" />
-		<rect x="120" y="48" width="6" height="6" />
-		<rect x="126" y="48" width="6" height="6" />
-		<rect x="132" y="48" width="6" height="6" />
-		<rect x="138" y="48" width="6" height="6" />
-		<rect x="156" y="48" width="6" height="6" />
-		<rect x="162" y="48" width="6" height="6" />
-		<rect x="168" y="48" width="6" height="6" />
-		<rect x="12" y="54" width="6" height="6" />
-		<rect x="24" y="54" width="6" height="6" />
-		<rect x="42" y="54" width="6" height="6" />
-		<rect x="48" y="54" width="6" height="6" />
-		<rect x="60" y="54" width="6" height="6" />
-		<rect x="90" y="54" width="6" height="6" />
-		<rect x="96" y="54" width="6" height="6" />
-		<rect x="102" y="54" width="6" height="6" />
-		<rect x="132" y="54" width="6" height="6" />
-		<rect x="138" y="54" width="6" height="6" />
-		<rect x="144" y="54" width="6" height="6" />
-		<rect x="168" y="54" width="6" height="6" />
-		<rect x="6" y="60" width="6" height="6" />
-		<rect x="36" y="60" width="6" height="6" />
-		<rect x="42" y="60" width="6" height="6" />
-		<rect x="48" y="60" width="6" height="6" />
-		<rect x="60" y="60" width="6" height="6" />
-		<rect x="66" y="60" width="6" height="6" />
-		<rect x="78" y="60" width="6" height="6" />
-		<rect x="84" y="60" width="6" height="6" />
-		<rect x="120" y="60" width="6" height="6" />
-		<rect x="132" y="60" width="6" height="6" />
-		<rect x="138" y="60" width="6" height="6" />
-		<rect x="6" y="66" width="6" height="6" />
-		<rect x="18" y="66" width="6" height="6" />
-		<rect x="42" y="66" width="6" height="6" />
-		<rect x="48" y="66" width="6" height="6" />
-		<rect x="78" y="66" width="6" height="6" />
-		<rect x="84" y="66" width="6" height="6" />
-		<rect x="90" y="66" width="6" height="6" />
-		<rect x="96" y="66" width="6" height="6" />
-		<rect x="102" y="66" width="6" height="6" />
-		<rect x="108" y="66" width="6" height="6" />
-		<rect x="132" y="66" width="6" height="6" />
-		<rect x="138" y="66" width="6" height="6" />
-		<rect x="150" y="66" width="6" height="6" />
-		<rect x="162" y="66" width="6" height="6" />
-		<rect x="0" y="72" width="6" height="6" />
-		<rect x="6" y="72" width="6" height="6" />
-		<rect x="12" y="72" width="6" height="6" />
-		<rect x="18" y="72" width="6" height="6" />
-		<rect x="24" y="72" width="6" height="6" />
-		<rect x="30" y="72" width="6" height="6" />
-		<rect x="36" y="72" width="6" height="6" />
-		<rect x="42" y="72" width="6" height="6" />
-		<rect x="48" y="72" width="6" height="6" />
-		<rect x="54" y="72" width="6" height="6" />
-		<rect x="66" y="72" width="6" height="6" />
-		<rect x="108" y="72" width="6" height="6" />
-		<rect x="120" y="72" width="6" height="6" />
-		<rect x="126" y="72" width="6" height="6" />
-		<rect x="156" y="72" width="6" height="6" />
-		<rect x="162" y="72" width="6" height="6" />
-		<rect x="168" y="72" width="6" height="6" />
-		<rect x="0" y="78" width="6" height="6" />
-		<rect x="30" y="78" width="6" height="6" />
-		<rect x="60" y="78" width="6" height="6" />
-		<rect x="72" y="78" width="6" height="6" />
-		<rect x="78" y="78" width="6" height="6" />
-		<rect x="84" y="78" width="6" height="6" />
-		<rect x="90" y="78" width="6" height="6" />
-		<rect x="114" y="78" width="6" height="6" />
-		<rect x="120" y="78" width="6" height="6" />
-		<rect x="126" y="78" width="6" height="6" />
-		<rect x="132" y="78" width="6" height="6" />
-		<rect x="144" y="78" width="6" height="6" />
-		<rect x="150" y="78" width="6" height="6" />
-		<rect x="168" y="78" width="6" height="6" />
-		<rect x="0" y="84" width="6" height="6" />
-		<rect x="12" y="84" width="6" height="6" />
-		<rect x="18" y="84" width="6" height="6" />
-		<rect x="24" y="84" width="6" height="6" />
-		<rect x="36" y="84" width="6" height="6" />
-		<rect x="42" y="84" width="6" height="6" />
-		<rect x="66" y="84" width="6" height="6" />
-		<rect x="78" y="84" width="6" height="6" />
-		<rect x="84" y="84" width="6" height="6" />
-		<rect x="96" y="84" width="6" height="6" />
-		<rect x="102" y="84" width="6" height="6" />
-		<rect x="108" y="84" width="6" height="6" />
-		<rect x="120" y="84" width="6" height="6" />
-		<rect x="126" y="84" width="6" height="6" />
-		<rect x="0" y="90" width="6" height="6" />
-		<rect x="6" y="90" width="6" height="6" />
-		<rect x="12" y="90" width="6" height="6" />
-		<rect x="18" y="90" width="6" height="6" />
-		<rect x="48" y="90" width="6" height="6" />
-		<rect x="66" y="90" width="6" height="6" />
-		<rect x="84" y="90" width="6" height="6" />
-		<rect x="90" y="90" width="6" height="6" />
-		<rect x="102" y="90" width="6" height="6" />
-		<rect x="108" y="90" width="6" height="6" />
-		<rect x="114" y="90" width="6" height="6" />
-		<rect x="120" y="90" width="6" height="6" />
-		<rect x="126" y="90" width="6" height="6" />
-		<rect x="132" y="90" width="6" height="6" />
-		<rect x="150" y="90" width="6" height="6" />
-		<rect x="168" y="90" width="6" height="6" />
-		<rect x="0" y="96" width="6" height="6" />
-		<rect x="18" y="96" width="6" height="6" />
-		<rect x="36" y="96" width="6" height="6" />
-		<rect x="42" y="96" width="6" height="6" />
-		<rect x="48" y="96" width="6" height="6" />
-		<rect x="72" y="96" width="6" height="6" />
-		<rect x="84" y="96" width="6" height="6" />
-		<rect x="90" y="96" width="6" height="6" />
-		<rect x="96" y="96" width="6" height="6" />
-		<rect x="150" y="96" width="6" height="6" />
-		<rect x="156" y="96" width="6" height="6" />
-		<rect x="162" y="96" width="6" height="6" />
-		<rect x="0" y="102" width="6" height="6" />
-		<rect x="12" y="102" width="6" height="6" />
-		<rect x="30" y="102" width="6" height="6" />
-		<rect x="42" y="102" width="6" height="6" />
-		<rect x="48" y="102" width="6" height="6" />
-		<rect x="54" y="102" width="6" height="6" />
-		<rect x="60" y="102" width="6" height="6" />
-		<rect x="84" y="102" width="6" height="6" />
-		<rect x="90" y="102" width="6" height="6" />
-		<rect x="96" y="102" width="6" height="6" />
-		<rect x="108" y="102" width="6" height="6" />
-		<rect x="120" y="102" width="6" height="6" />
-		<rect x="126" y="102" width="6" height="6" />
-		<rect x="132" y="102" width="6" height="6" />
-		<rect x="138" y="102" width="6" height="6" />
-		<rect x="144" y="102" width="6" height="6" />
-		<rect x="150" y="102" width="6" height="6" />
-		<rect x="162" y="102" width="6" height="6" />
-		<rect x="168" y="102" width="6" height="6" />
-		<rect x="0" y="108" width="6" height="6" />
-		<rect x="24" y="108" width="6" height="6" />
-		<rect x="36" y="108" width="6" height="6" />
-		<rect x="42" y="108" width="6" height="6" />
-		<rect x="48" y="108" width="6" height="6" />
-		<rect x="90" y="108" width="6" height="6" />
-		<rect x="96" y="108" width="6" height="6" />
-		<rect x="114" y="108" width="6" height="6" />
-		<rect x="132" y="108" width="6" height="6" />
-		<rect x="0" y="114" width="6" height="6" />
-		<rect x="12" y="114" width="6" height="6" />
-		<rect x="18" y="114" width="6" height="6" />
-		<rect x="72" y="114" width="6" height="6" />
-		<rect x="78" y="114" width="6" height="6" />
-		<rect x="84" y="114" width="6" height="6" />
-		<rect x="90" y="114" width="6" height="6" />
-		<rect x="108" y="114" width="6" height="6" />
-		<rect x="114" y="114" width="6" height="6" />
-		<rect x="120" y="114" width="6" height="6" />
-		<rect x="132" y="114" width="6" height="6" />
-		<rect x="138" y="114" width="6" height="6" />
-		<rect x="150" y="114" width="6" height="6" />
-		<rect x="162" y="114" width="6" height="6" />
-		<rect x="0" y="120" width="6" height="6" />
-		<rect x="12" y="120" width="6" height="6" />
-		<rect x="24" y="120" width="6" height="6" />
-		<rect x="30" y="120" width="6" height="6" />
-		<rect x="36" y="120" width="6" height="6" />
-		<rect x="48" y="120" width="6" height="6" />
-		<rect x="60" y="120" width="6" height="6" />
-		<rect x="72" y="120" width="6" height="6" />
-		<rect x="78" y="120" width="6" height="6" />
-		<rect x="90" y="120" width="6" height="6" />
-		<rect x="96" y="120" width="6" height="6" />
-		<rect x="108" y="120" width="6" height="6" />
-		<rect x="114" y="120" width="6" height="6" />
-		<rect x="120" y="120" width="6" height="6" />
-		<rect x="126" y="120" width="6" height="6" />
-		<rect x="132" y="120" width="6" height="6" />
-		<rect x="138" y="120" width="6" height="6" />
-		<rect x="144" y="120" width="6" height="6" />
-		<rect x="156" y="120" width="6" height="6" />
-		<rect x="48" y="126" width="6" height="6" />
-		<rect x="78" y="126" width="6" height="6" />
-		<rect x="84" y="126" width="6" height="6" />
-		<rect x="96" y="126" width="6" height="6" />
-		<rect x="102" y="126" width="6" height="6" />
-		<rect x="114" y="126" width="6" height="6" />
-		<rect x="120" y="126" width="6" height="6" />
-		<rect x="144" y="126" width="6" height="6" />
-		<rect x="150" y="126" width="6" height="6" />
-		<rect x="162" y="126" width="6" height="6" />
-		<rect x="168" y="126" width="6" height="6" />
-		<rect x="0" y="132" width="6" height="6" />
-		<rect x="6" y="132" width="6" height="6" />
-		<rect x="12" y="132" width="6" height="6" />
-		<rect x="18" y="132" width="6" height="6" />
-		<rect x="24" y="132" width="6" height="6" />
-		<rect x="30" y="132" width="6" height="6" />
-		<rect x="36" y="132" width="6" height="6" />
-		<rect x="54" y="132" width="6" height="6" />
-		<rect x="60" y="132" width="6" height="6" />
-		<rect x="66" y="132" width="6" height="6" />
-		<rect x="78" y="132" width="6" height="6" />
-		<rect x="84" y="132" width="6" height="6" />
-		<rect x="96" y="132" width="6" height="6" />
-		<rect x="102" y="132" width="6" height="6" />
-		<rect x="108" y="132" width="6" height="6" />
-		<rect x="114" y="132" width="6" height="6" />
-		<rect x="120" y="132" width="6" height="6" />
-		<rect x="132" y="132" width="6" height="6" />
-		<rect x="144" y="132" width="6" height="6" />
-		<rect x="0" y="138" width="6" height="6" />
-		<rect x="36" y="138" width="6" height="6" />
-		<rect x="54" y="138" width="6" height="6" />
-		<rect x="60" y="138" width="6" height="6" />
-		<rect x="84" y="138" width="6" height="6" />
-		<rect x="90" y="138" width="6" height="6" />
-		<rect x="96" y="138" width="6" height="6" />
-		<rect x="108" y="138" width="6" height="6" />
-		<rect x="114" y="138" width="6" height="6" />
-		<rect x="120" y="138" width="6" height="6" />
-		<rect x="144" y="138" width="6" height="6" />
-		<rect x="150" y="138" width="6" height="6" />
-		<rect x="162" y="138" width="6" height="6" />
-		<rect x="0" y="144" width="6" height="6" />
-		<rect x="12" y="144" width="6" height="6" />
-		<rect x="18" y="144" width="6" height="6" />
-		<rect x="24" y="144" width="6" height="6" />
-		<rect x="36" y="144" width="6" height="6" />
-		<rect x="48" y="144" width="6" height="6" />
-		<rect x="72" y="144" width="6" height="6" />
-		<rect x="102" y="144" width="6" height="6" />
-		<rect x="108" y="144" width="6" height="6" />
-		<rect x="120" y="144" width="6" height="6" />
-		<rect x="126" y="144" width="6" height="6" />
-		<rect x="132" y="144" width="6" height="6" />
-		<rect x="138" y="144" width="6" height="6" />
-		<rect x="144" y="144" width="6" height="6" />
-		<rect x="150" y="144" width="6" height="6" />
-		<rect x="156" y="144" width="6" height="6" />
-		<rect x="0" y="150" width="6" height="6" />
-		<rect x="12" y="150" width="6" height="6" />
-		<rect x="18" y="150" width="6" height="6" />
-		<rect x="24" y="150" width="6" height="6" />
-		<rect x="36" y="150" width="6" height="6" />
-		<rect x="48" y="150" width="6" height="6" />
-		<rect x="60" y="150" width="6" height="6" />
-		<rect x="72" y="150" width="6" height="6" />
-		<rect x="90" y="150" width="6" height="6" />
-		<rect x="96" y="150" width="6" height="6" />
-		<rect x="108" y="150" width="6" height="6" />
-		<rect x="114" y="150" width="6" height="6" />
-		<rect x="120" y="150" width="6" height="6" />
-		<rect x="138" y="150" width="6" height="6" />
-		<rect x="150" y="150" width="6" height="6" />
-		<rect x="0" y="156" width="6" height="6" />
-		<rect x="12" y="156" width="6" height="6" />
-		<rect x="18" y="156" width="6" height="6" />
-		<rect x="24" y="156" width="6" height="6" />
-		<rect x="36" y="156" width="6" height="6" />
-		<rect x="48" y="156" width="6" height="6" />
-		<rect x="60" y="156" width="6" height="6" />
-		<rect x="66" y="156" width="6" height="6" />
-		<rect x="72" y="156" width="6" height="6" />
-		<rect x="84" y="156" width="6" height="6" />
-		<rect x="102" y="156" width="6" height="6" />
-		<rect x="114" y="156" width="6" height="6" />
-		<rect x="132" y="156" width="6" height="6" />
-		<rect x="144" y="156" width="6" height="6" />
-		<rect x="156" y="156" width="6" height="6" />
-		<rect x="162" y="156" width="6" height="6" />
-		<rect x="0" y="162" width="6" height="6" />
-		<rect x="36" y="162" width="6" height="6" />
-		<rect x="54" y="162" width="6" height="6" />
-		<rect x="60" y="162" width="6" height="6" />
-		<rect x="66" y="162" width="6" height="6" />
-		<rect x="84" y="162" width="6" height="6" />
-		<rect x="96" y="162" width="6" height="6" />
-		<rect x="144" y="162" width="6" height="6" />
-		<rect x="162" y="162" width="6" height="6" />
-		<rect x="0" y="168" width="6" height="6" />
-		<rect x="6" y="168" width="6" height="6" />
-		<rect x="12" y="168" width="6" height="6" />
-		<rect x="18" y="168" width="6" height="6" />
-		<rect x="24" y="168" width="6" height="6" />
-		<rect x="30" y="168" width="6" height="6" />
-		<rect x="36" y="168" width="6" height="6" />
-		<rect x="54" y="168" width="6" height="6" />
-		<rect x="60" y="168" width="6" height="6" />
-		<rect x="72" y="168" width="6" height="6" />
-		<rect x="78" y="168" width="6" height="6" />
-		<rect x="84" y="168" width="6" height="6" />
-		<rect x="90" y="168" width="6" height="6" />
-		<rect x="96" y="168" width="6" height="6" />
-		<rect x="132" y="168" width="6" height="6" />
-		<rect x="144" y="168" width="6" height="6" />
-		<rect x="156" y="168" width="6" height="6" />
-	</g>
-</svg>
+<?php
+//============================================================+
+// File name   : example_2d_svgi.php
+// Version     : 1.0.000
+// Begin       : 2011-07-21
+// Last Update : 2013-03-19
+// Author      : Nicola Asuni - Tecnick.com LTD - www.tecnick.com - info@tecnick.com
+// License     : GNU-LGPL v3 (http://www.gnu.org/copyleft/lesser.html)
+// -------------------------------------------------------------------
+// Copyright (C) 2009-2013 Nicola Asuni - Tecnick.com LTD
+//
+// This file is part of TCPDF software library.
+//
+// TCPDF is free software: you can redistribute it and/or modify it
+// under the terms of the GNU Lesser General Public License as
+// published by the Free Software Foundation, either version 3 of the
+// License, or (at your option) any later version.
+//
+// TCPDF is distributed in the hope that it will be useful, but
+// WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+// See the GNU Lesser General Public License for more details.
+//
+// You should have received a copy of the GNU Lesser General Public License
+// along with TCPDF.  If not, see <http://www.gnu.org/licenses/>.
+//
+// See LICENSE.TXT file for more information.
+// -------------------------------------------------------------------
+//
+// Description : Example for tcpdf_barcodes_2d.php class
+//
+//============================================================+
+
+/**
+ * @file
+ * Example for tcpdf_barcodes_2d.php class
+ * @package com.tecnick.tcpdf
+ * @author Nicola Asuni
+ * @version 1.0.009
+ */
+
+// include 2D barcode class (search for installation path)
+require_once(dirname(__FILE__).'/tcpdf_barcodes_2d_include.php');
+
+// set the barcode content and type
+$barcodeobj = new TCPDF2DBarcode('http://www.tcpdf.org', 'QRCODE,H');
+
+// output the barcode as SVG inline code
+echo $barcodeobj->getBarcodeSVGcode(6, 6, 'black');
+
+//============================================================+
+// END OF FILE
+//============================================================+
